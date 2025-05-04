@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|c:\\users\\user\\desktop\\arcanos\\arcanos\\arcanos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|solutionrelative:arcanos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|c:\\users\\user\\desktop\\arcanos\\arcanos\\arcanos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|solutionrelative:arcanos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|c:\\users\\user\\desktop\\arcanos\\arcanos\\arcanos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|solutionrelative:arcanos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|c:\\users\\user\\desktop\\arcanos\\arcanos\\arcanos\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\Arcanos\\Login.cs",
               "RelativeDocumentMoniker": "Arcanos\\Login.cs",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\Arcanos\\Login.cs",
               "RelativeDocumentMoniker": "Arcanos\\Login.cs",
