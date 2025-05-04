@@ -40,6 +40,7 @@
             this.textBoxSenha = new System.Windows.Forms.TextBox();
             this.buttonCadastrar = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label5 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -49,7 +50,7 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label1.Location = new System.Drawing.Point(32, 132);
+            this.label1.Location = new System.Drawing.Point(32, 154);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(151, 20);
             this.label1.TabIndex = 0;
@@ -61,7 +62,7 @@
             this.labelSobrenome.BackColor = System.Drawing.Color.Transparent;
             this.labelSobrenome.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelSobrenome.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.labelSobrenome.Location = new System.Drawing.Point(32, 310);
+            this.labelSobrenome.Location = new System.Drawing.Point(32, 332);
             this.labelSobrenome.Name = "labelSobrenome";
             this.labelSobrenome.Size = new System.Drawing.Size(48, 20);
             this.labelSobrenome.TabIndex = 1;
@@ -73,7 +74,7 @@
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label2.Location = new System.Drawing.Point(32, 251);
+            this.label2.Location = new System.Drawing.Point(32, 273);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(58, 20);
             this.label2.TabIndex = 2;
@@ -85,7 +86,7 @@
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label3.Location = new System.Drawing.Point(32, 190);
+            this.label3.Location = new System.Drawing.Point(32, 212);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(40, 20);
             this.label3.TabIndex = 3;
@@ -97,7 +98,7 @@
             this.label4.BackColor = System.Drawing.Color.Transparent;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label4.Location = new System.Drawing.Point(32, 363);
+            this.label4.Location = new System.Drawing.Point(32, 385);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(56, 20);
             this.label4.TabIndex = 4;
@@ -105,35 +106,35 @@
             // 
             // textBoxNome
             // 
-            this.textBoxNome.Location = new System.Drawing.Point(36, 155);
+            this.textBoxNome.Location = new System.Drawing.Point(36, 177);
             this.textBoxNome.Name = "textBoxNome";
             this.textBoxNome.Size = new System.Drawing.Size(306, 20);
             this.textBoxNome.TabIndex = 5;
             // 
             // textBoxCPF
             // 
-            this.textBoxCPF.Location = new System.Drawing.Point(36, 213);
+            this.textBoxCPF.Location = new System.Drawing.Point(36, 235);
             this.textBoxCPF.Name = "textBoxCPF";
             this.textBoxCPF.Size = new System.Drawing.Size(306, 20);
             this.textBoxCPF.TabIndex = 6;
             // 
             // textBoxContato
             // 
-            this.textBoxContato.Location = new System.Drawing.Point(36, 274);
+            this.textBoxContato.Location = new System.Drawing.Point(36, 296);
             this.textBoxContato.Name = "textBoxContato";
             this.textBoxContato.Size = new System.Drawing.Size(306, 20);
             this.textBoxContato.TabIndex = 7;
             // 
             // textBoxEmail
             // 
-            this.textBoxEmail.Location = new System.Drawing.Point(36, 331);
+            this.textBoxEmail.Location = new System.Drawing.Point(36, 353);
             this.textBoxEmail.Name = "textBoxEmail";
             this.textBoxEmail.Size = new System.Drawing.Size(306, 20);
             this.textBoxEmail.TabIndex = 8;
             // 
             // textBoxSenha
             // 
-            this.textBoxSenha.Location = new System.Drawing.Point(36, 386);
+            this.textBoxSenha.Location = new System.Drawing.Point(36, 408);
             this.textBoxSenha.Name = "textBoxSenha";
             this.textBoxSenha.Size = new System.Drawing.Size(306, 20);
             this.textBoxSenha.TabIndex = 9;
@@ -143,23 +144,36 @@
             this.buttonCadastrar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.buttonCadastrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonCadastrar.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(126)))), ((int)(((byte)(9)))), ((int)(((byte)(56)))));
-            this.buttonCadastrar.Location = new System.Drawing.Point(136, 447);
+            this.buttonCadastrar.Location = new System.Drawing.Point(136, 469);
             this.buttonCadastrar.Name = "buttonCadastrar";
             this.buttonCadastrar.Size = new System.Drawing.Size(104, 40);
             this.buttonCadastrar.TabIndex = 10;
             this.buttonCadastrar.Text = "Cadastrar";
             this.buttonCadastrar.UseVisualStyleBackColor = false;
+            this.buttonCadastrar.Click += new System.EventHandler(this.buttonCadastrar_Click);
             // 
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.BackgroundImage = global::Arcanos.Properties.Resources.arcanos__cadastro_;
-            this.pictureBox1.Location = new System.Drawing.Point(116, 3);
+            this.pictureBox1.Location = new System.Drawing.Point(112, 0);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(149, 135);
+            this.pictureBox1.Size = new System.Drawing.Size(153, 148);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 11;
             this.pictureBox1.TabStop = false;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.BackColor = System.Drawing.Color.Transparent;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label5.Location = new System.Drawing.Point(32, 114);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(84, 24);
+            this.label5.TabIndex = 12;
+            this.label5.Text = "Cadastro";
             // 
             // Cadastro
             // 
@@ -169,6 +183,7 @@
             this.BackgroundImage = global::Arcanos.Properties.Resources.background2;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(384, 561);
+            this.Controls.Add(this.label5);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.buttonCadastrar);
             this.Controls.Add(this.textBoxSenha);
@@ -183,6 +198,7 @@
             this.Controls.Add(this.label1);
             this.DoubleBuffered = true;
             this.Name = "Cadastro";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Cadastro";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
@@ -204,5 +220,6 @@
         private System.Windows.Forms.TextBox textBoxSenha;
         private System.Windows.Forms.Button buttonCadastrar;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label label5;
     }
 }
