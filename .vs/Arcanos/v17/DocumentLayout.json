@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|c:\\users\\user\\desktop\\arcanos\\arcanos\\arcanos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|solutionrelative:arcanos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|c:\\users\\user\\desktop\\arcanos\\arcanos\\arcanos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|solutionrelative:arcanos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|c:\\users\\user\\desktop\\arcanos\\arcanos\\arcanos\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|solutionrelative:arcanos\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|c:\\users\\user\\desktop\\arcanos\\arcanos\\arcanos\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|solutionrelative:arcanos\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\arcanos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|solutionrelative:arcanos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|c:\\users\\user\\desktop\\arcanos\\arcanos\\arcanos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|solutionrelative:arcanos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\Arcanos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC2BD4DE-383C-4185-B431-1A2BE41A1AB8}|Arcanos\\Arcanos.csproj|solutionrelative:Arcanos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,85 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.resx",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\Arcanos\\Login.resx",
-              "RelativeDocumentMoniker": "Arcanos\\Login.resx",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\Arcanos\\Login.resx",
-              "RelativeToolTip": "Arcanos\\Login.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-05-03T04:18:32.351Z",
-              "EditorCaption": ""
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\Arcanos\\Login.cs",
-              "RelativeDocumentMoniker": "Arcanos\\Login.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\Arcanos\\Login.cs",
-              "RelativeToolTip": "Arcanos\\Login.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T03:19:08.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\Arcanos\\Login.cs",
-              "RelativeDocumentMoniker": "Arcanos\\Login.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\Arcanos\\Login.cs [Design]",
-              "RelativeToolTip": "Arcanos\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T06:33:34.262Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\Arcanos\\Form1.cs",
-              "RelativeDocumentMoniker": "Arcanos\\Form1.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\Arcanos\\Form1.cs [Design]",
-              "RelativeToolTip": "Arcanos\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T05:31:56.887Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\Arcanos\\Program.cs",
-              "RelativeDocumentMoniker": "Arcanos\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\Arcanos\\Program.cs",
-              "RelativeToolTip": "Arcanos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T05:32:07.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Login.Designer.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\Arcanos\\Login.Designer.cs",
               "RelativeDocumentMoniker": "Arcanos\\Login.Designer.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\Arcanos\\Login.Designer.cs",
               "RelativeToolTip": "Arcanos\\Login.Designer.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAQwEUAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAzwDIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T04:06:48.475Z",
+              "WhenOpened": "2025-05-05T05:05:40.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\Arcanos\\Login.cs",
+              "RelativeDocumentMoniker": "Arcanos\\Login.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\Arcanos\\Login.cs",
+              "RelativeToolTip": "Arcanos\\Login.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T05:05:26.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\Arcanos\\Program.cs",
+              "RelativeDocumentMoniker": "Arcanos\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Arcanos\\Arcanos\\Arcanos\\Program.cs",
+              "RelativeToolTip": "Arcanos\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:32:07.402Z",
               "EditorCaption": ""
             }
           ]
